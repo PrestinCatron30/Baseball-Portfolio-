@@ -4,9 +4,9 @@
 
 ### I. Rangers pitcher Kumar Rocker to Atlanta 
 
-- JR Ritchie ( Braves Major League Rookie Pitcher / Former No. 2 Prospect )
-- Luis Guanipa ( Braves No 22 Prospect )
-- Isaiah Drake ( Braves No 29 Prospect )
+*[JR Ritchie](https://milb.com) (Braves Major League Rookie Pitcher / Former No. 2 Prospect)
+*[Luis Guanipa](https://milb.com) (Braves No. 22 Prospect)
+*[Isaiah Drake](https://milb.com) (Braves No. 29 Prospect)
 
 ### II. Financial Analysis & Team Control
 
