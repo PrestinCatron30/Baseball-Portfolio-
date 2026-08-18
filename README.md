@@ -5,8 +5,13 @@
 ### I. Rangers pitcher Kumar Rocker to Atlanta 
 
 - JR Ritchie(Major League rookie pitcher/ Former No.2 prospect)
+- Ritchie is the centerpiece of the package a projected mid-rotation starter who can fully unlock his profile by refining his fastball command to complement a great curve.
+- 
 - Luis Guanipa(Braves No.22 Prospect)
-- Isaiah Drake(Braves No.29 prospect)
+- Guanipa represents the long-term upside of the package- a high ceiling athlete with game changing 65 grade speed and premium defensive range in center field. While his explosive bat speed suggests untapped offensive potential,his ultimate impact hinges on two key development milestones:reducing a high Chase rate to improve his overall walk margins, and optimizing his launch angle to covert his raw strength into more consistent game power.
+- 
+- Drake is a hyper-athletic, left-handed hitting outfielder whose raw power is quickly turning into game production where he launched 12 home runs in a 68 game stretch. Combined with his top-of-the-scale,70 grade speed, he flashes 30/30 ceiling. While he has successfully trimmed his swing and miss rates, his ultimate developmental hurdle is maintaining a disciplined plate approach against advanced breaking balls.
+
 
 ### II. Financial Analysis & Team Control
 
