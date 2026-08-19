@@ -5,7 +5,7 @@
 ### I. Rangers pitcher Kumar Rocker to Atlanta 
 
 - JR Ritchie(Major League rookie pitcher/ Former No.2 prospect)
-- Ritchie is the centerpiece of the package a projected mid-rotation starter who can fully unlock his profile by refining his fastball command that averaged 94 MPH with 2,353 RPM to complement a great curve that averaged 82 MPH and 2,634RPM
+- Ritchie is the centerpiece of the package a projected mid-rotation starter who can fully unlock his profile by refining his fastball command that averaged 94 MPH with 2,353 RPM to complement a great curve that averaged 82 MPH and 2,634 RPM
 https://baseballsavant.mlb.com/savant-player/jr-ritchie-702275?stats=statcast-r-pitching-mlb
 - 
 - Luis Guanipa(Braves No.22 Prospect)
