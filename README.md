@@ -5,7 +5,7 @@
 ### I. Rangers pitcher Kumar Rocker to Atlanta 
 
 - JR Ritchie(Major League rookie pitcher/ Former No.2 prospect)
-- Ritchie is the centerpiece of the package a projected mid-rotation starter who can fully unlock his profile by refining his fastball command to complement a great curve.
+- Ritchie is the centerpiece of the package a projected mid-rotation starter who can fully unlock his profile by refining his fastball command that averaged 94 MPH with 2,353 RPM to complement a great curve that averaged 82 MPH and 2,634RPM
 https://baseballsavant.mlb.com/savant-player/jr-ritchie-702275?stats=statcast-r-pitching-mlb
 - 
 - Luis Guanipa(Braves No.22 Prospect)
@@ -31,4 +31,5 @@ By upgrading the package to feature **JR Ritchie**, the braves successfully tran
 
 Note that as of August 2026, JR Ritchie has officially graduated from prospect rankings, having thrown **58.0 Major League innings** across **14 games** (8 starts) for the Braves this season. While his rookie numbers reveal expected adjustment periods (**4.50 ERA, 1.43 WHIP, 53 Strikeouts***), he flashes a mid 90's fastball and a plus secondary mix.
 
-Once Atlanta acquires Rocker, the player development staff should emphasize modifying his pitch-mix sequence. Increasing his changeup usage against left-handed hitters will neutralize platoon splits, optimizing his elite raw velocity.
+Once Atlanta acquires Rocker, the player development staff should emphasize modifying his pitch-mix sequence. Increasing the usage of his changeup which averaged 88 MPH and 1635 RPM and his four seam fastball that averaged 94 MPH with 2,157 RPM
+https://baseballsavant.mlb.com/savant-player/kumar-rocker-677958?stats=statcast-r-pitching-mlb
